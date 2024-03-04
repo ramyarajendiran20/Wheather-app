@@ -6,7 +6,7 @@
 
 #### Web link 
 
- https://sachinprajapati8604.github.io/Weather_webApp/
+(https://github.com/ramyarajendiran20/Wheather-app.git)
  
  #### netlify link
  
